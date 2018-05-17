@@ -4,7 +4,10 @@ Ruby Intro
 This 3-part homework gives some basic practice in Ruby as well as
 getting you accustomed to making testing a regular part of your workflow.
 
-**NOTE: Do not clone this repo to your workspace. Fork it first, then clone your fork.**
+You can use the github classroom link to create your repo for this assignment. Then you can clone it into Cloud 9 like below.
+```sh
+$ git clone https://github.com/ITSC3155-Summer1-2018/HW1-Ruby-Introduction-yourUsername
+```
 
 Learning Goals
 --------------
